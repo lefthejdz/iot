@@ -1,2 +1,2 @@
-# iot
+# IoT
 We love IoT !!
